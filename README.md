@@ -4,7 +4,7 @@
 
 ### GOAL: get all the blue particles on one side, and red particles on the other.
 
-#### Increase the difficulty by adding more molecules. Press mouse to open door, release to close door. Have fun!
+##### Increase the difficulty by adding more molecules. Press mouse to open door, release to close door. Have fun!
 
 Screenshot:
 
